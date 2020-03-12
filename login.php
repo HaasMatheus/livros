@@ -1,6 +1,6 @@
 <?php
 	require_once('config.php');
-	require_once(DBAPI);a
+	require_once(DBAPI);
 	
 	if(!empty($_POST['siape'])){
 		$id = $_POST['siape'];
