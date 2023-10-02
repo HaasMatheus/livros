@@ -1,7 +1,7 @@
 <?php
 /** O nome do banco de dados*/	
 define('DB_NAME', 'u411879655_book');
-		
+//teste	
 /** Usuário do banco de dados MySQL */	
 define('DB_USER', 'u411879655_book');		
 
